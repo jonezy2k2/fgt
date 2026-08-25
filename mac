@@ -14,9 +14,9 @@
 #DesktopPC
 64:4e:d7:6b:8d:e7
 #LGTV1-Downstairs
-38:8c:50:c4:38:72
+#38:8c:50:c4:38:72
 #LGTV2-Downstairs
-a8:23:fe:a4:b0:cb
+#a8:23:fe:a4:b0:cb
 #ReolinkIPCamera
 ec:71:db:72:90:48
 #WorkVM-VM1
@@ -25,6 +25,6 @@ ec:71:db:72:90:48
 00:b4:63:27:33:b5
 #kidsMacs
 #OllieTV
-#90:98:77:80:c8:fa
-#7e:af:9a:d8:26:a2
+90:98:77:80:c8:fa
+7e:af:9a:d8:26:a2
 #f2:5c:31:1a:f2:3e
